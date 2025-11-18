@@ -14,5 +14,5 @@ build/
 *.swo
 *~
 todo.md
-patches/
+# Note: patches/ is needed for pnpm install, so it's NOT ignored
 
