@@ -1,6 +1,7 @@
 {
   "name": "cummins-analysis",
   "version": "1.0.0",
+  "description": "Professional investment analysis website for Cummins Inc. (CMI) - AI power generation strategy for data centers",
   "type": "module",
   "license": "MIT",
   "scripts": {

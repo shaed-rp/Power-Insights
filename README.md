@@ -146,4 +146,4 @@ This analysis is for informational purposes only and does not constitute investm
 
 ## Author
 
-Created by Manus AI - November 2025
+Created by Power Insights AI - November 2025
