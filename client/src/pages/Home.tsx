@@ -272,9 +272,9 @@ export default function Home() {
             <CardContent>
               <div className="space-y-4">
                 <div>
-                  <div className="flex justify-between items-center mb-2">
-                    <span className="font-semibold">Caterpillar (CAT)</span>
-                    <span className="text-primary font-bold">42%</span>
+                  <div className="flex justify-between items-center mb-2 gap-2">
+                    <span className="font-semibold text-sm sm:text-base">Caterpillar (CAT)</span>
+                    <span className="text-primary font-bold text-sm sm:text-base flex-shrink-0">42%</span>
                   </div>
                   <div className="w-full bg-secondary rounded-full h-3">
                     <div className="bg-primary h-3 rounded-full" style={{width: '42%'}}></div>
@@ -282,9 +282,9 @@ export default function Home() {
                   <p className="text-xs text-muted-foreground mt-1">#1 Market Leader</p>
                 </div>
                 <div>
-                  <div className="flex justify-between items-center mb-2">
-                    <span className="font-semibold">Cummins (CMI)</span>
-                    <span className="text-primary font-bold">24%</span>
+                  <div className="flex justify-between items-center mb-2 gap-2">
+                    <span className="font-semibold text-sm sm:text-base">Cummins (CMI)</span>
+                    <span className="text-primary font-bold text-sm sm:text-base flex-shrink-0">24%</span>
                   </div>
                   <div className="w-full bg-secondary rounded-full h-3">
                     <div className="bg-primary/80 h-3 rounded-full" style={{width: '24%'}}></div>
@@ -292,9 +292,9 @@ export default function Home() {
                   <p className="text-xs text-muted-foreground mt-1">#2 Challenger</p>
                 </div>
                 <div>
-                  <div className="flex justify-between items-center mb-2">
-                    <span className="font-semibold">Rolls-Royce</span>
-                    <span className="text-primary font-bold">21%</span>
+                  <div className="flex justify-between items-center mb-2 gap-2">
+                    <span className="font-semibold text-sm sm:text-base">Rolls-Royce</span>
+                    <span className="text-primary font-bold text-sm sm:text-base flex-shrink-0">21%</span>
                   </div>
                   <div className="w-full bg-secondary rounded-full h-3">
                     <div className="bg-primary/60 h-3 rounded-full" style={{width: '21%'}}></div>

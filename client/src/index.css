@@ -228,5 +228,16 @@
     body {
       overflow-x: hidden;
     }
+    
+    /* Ensure flex containers don't overflow */
+    .flex {
+      min-width: 0;
+    }
+    
+    /* Better text wrapping for long words */
+    p, span, li {
+      word-break: break-word;
+      overflow-wrap: break-word;
+    }
   }
 }
